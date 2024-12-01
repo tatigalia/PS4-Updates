@@ -1,0 +1,14 @@
+ps4updptl.sa.np.community.playstation.net	
+gs2-sec.ww.prod.dl.playstation.net	
+dsa01.ps4.update.playstation.net	
+event.api.np.km.playstation.net	
+ps4-system.sec.np.dl.playstation.net	
+theia.dl.playstation.net	
+post.net.playstation.net	
+us.np.stun.playstation.net	
+rnps-crl.dl.playstation.net	
+friends.rnps.dl.playstation.net
+party.rnps.dl.playstation.net	
+gs2.ww.prod.dl.playstation.net	
+8.1.168.192.in-addr.arp
+fsa01.ps4.update.playstation.n

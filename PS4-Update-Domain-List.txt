@@ -12,3 +12,5 @@ party.rnps.dl.playstation.net
 gs2.ww.prod.dl.playstation.net	
 8.1.168.192.in-addr.arp
 fsa01.ps4.update.playstation.n
+tmdb.np.dl.playstation.net
+gs-sec.ww.np.dl.playstation.net
